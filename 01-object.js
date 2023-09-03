@@ -1,4 +1,4 @@
-
+//Criando objetos
 const person = {
     name: "Rafael",
     age: 41,
